@@ -29,7 +29,7 @@ We ensure that developers and businesses get the best experience when deploying 
 ⚡ **Domain & Web Services**  
 Qwords is more than just a hosting provider; we offer **a complete suite of web services** to help you establish, grow, and secure your online presence.  
 
-- 🔹 **Domain Registration & Backorder** – Find your perfect `.com`, `.id`, `.tech`, & more!  
+- 🔹 **Domain Registration & Backorder** – Find your perfect `.com`, `.id`, `.dev`, & more!  
 - 🔹 **Marketplace & Domain Auction** – Buy & sell premium domains effortlessly  
 - 🔹 **Managed WordPress Hosting** – Pre-optimized for speed & security  
 - 🔹 **Corporate Email Hosting** – Professional email with your domain  
@@ -68,7 +68,7 @@ Qwords operates **multiple data centers** to ensure low latency, high availabili
 - 🇮🇩 **Jakarta (ID)** – Tier 3 Certified  
 - 🇮🇩 **Surabaya (ID)** – High-speed regional support  
 - 🇸🇬 **Singapore (SG)** – Global connectivity & performance  
-- 🇺🇸 **USA (West Coast)** – Expansion-ready international hosting  
+- 🇺🇸 **United States** – Expansion-ready international vps  
 
 With **99.99% SLA uptime** and **24/7 monitoring**, our cloud infrastructure ensures your applications and websites run **without interruption**.  
 
