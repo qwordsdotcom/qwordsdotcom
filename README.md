@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/a8c33993-5ac1-4a75-8c0d-3a176eaa0e2c" alt="logo qwords" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/a8c33993-5ac1-4a75-8c0d-3a176eaa0e2c" alt="logo qwords" width="300" height="300">
 
 **Scalable. Secure. Reliable. Built for Developers.**  
 
